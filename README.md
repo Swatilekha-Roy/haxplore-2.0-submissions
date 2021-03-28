@@ -22,6 +22,7 @@ Acender is a safe online space for asexual individuals to seek public support gr
 Screenshots:
 ![image](https://user-images.githubusercontent.com/66139520/112748484-76e00480-8fd9-11eb-91fc-e52846e9ec4a.png)
 ![image](https://user-images.githubusercontent.com/66139520/112748520-bc9ccd00-8fd9-11eb-973f-0646a7a15038.png)
+![image](https://user-images.githubusercontent.com/66139520/112749045-629e0680-8fdd-11eb-8879-7f4fb6a69485.png)
 
 ### Usage
 To get the Node server running locally:

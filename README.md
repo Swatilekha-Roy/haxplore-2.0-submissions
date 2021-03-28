@@ -20,8 +20,8 @@ Acender is a safe online space for asexual individuals to seek public support gr
 * VS Code
 
 ### Demo links
-https://youtu.be/sKJCVTel4Ww
-https://acender.herokuapp.com/
+- https://youtu.be/sKJCVTel4Ww
+- https://acender.herokuapp.com/
 
 Screenshots:
 ![image](https://user-images.githubusercontent.com/66139520/112748484-76e00480-8fd9-11eb-91fc-e52846e9ec4a.png)

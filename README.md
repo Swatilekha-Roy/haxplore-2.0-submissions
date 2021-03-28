@@ -18,10 +18,6 @@ Acender is a safe online space for asexual individuals to seek public support gr
 * CSS3
 * Github
 * VS Code
-* ![image](https://user-images.githubusercontent.com/66139520/112744316-adf3ed00-8fbc-11eb-801e-36747fce06c1.png)
-
-*
-* 
 
 ### Usage
 To get the Node server running locally:

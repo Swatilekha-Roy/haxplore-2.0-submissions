@@ -18,11 +18,18 @@ Acender is a safe online space for asexual individuals to seek public support gr
 * CSS3
 * Github
 * VS Code
-* Screenshots/Demo Video
-* Add some screens and a demo
+* ![image](https://user-images.githubusercontent.com/66139520/112744316-adf3ed00-8fbc-11eb-801e-36747fce06c1.png)
+
+*
+* 
 
 ### Usage
-Tell in steps how can we setup your application. Also mention all relevant requirements and links.
+To get the Node server running locally:
+Clone this repo
+npm install to install all required dependencies
+Run "node server.js" in the terminal to get the app started!
+Clone this repo
+npm install to install all required dependencies
 
 ### Tracks used
 We are going for an open problem statement, therefore we haven't gone forward with any of the sponsor tracks for this hackathon.

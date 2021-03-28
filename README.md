@@ -38,4 +38,4 @@ Run "node server.js" in the terminal to get the app started!
 We are going for an open problem statement, therefore we haven't gone forward with any of the sponsor tracks for this hackathon.
 
 ### AWS Services Used
-We are still exploring this domain as to in what ways we could use AWS to better our application.
+Unfortunately due to a lack of previous experience and less contest time, we couldn't make use of any AWS services but we intend to do so in future projects!

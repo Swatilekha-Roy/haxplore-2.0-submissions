@@ -29,8 +29,6 @@ To get the Node server running locally:
 Clone this repo
 npm install to install all required dependencies
 Run "node server.js" in the terminal to get the app started!
-Clone this repo
-npm install to install all required dependencies
 
 ### Tracks used
 We are going for an open problem statement, therefore we haven't gone forward with any of the sponsor tracks for this hackathon.

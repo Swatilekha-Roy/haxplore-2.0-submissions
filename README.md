@@ -11,10 +11,6 @@ Acender
 ### Overview
 Acender is a safe online space for asexual individuals to seek public support groups, connect with like-minded people and to form strong bonds. We indend to give them the safe haven thay they deserve without the fear og judgment or being misunderstood. We will also try to include sample articles and papers that make understanding asexuality for others easier and for asexuals to fully understand themselves too. There will also be a couple of other fun features for them to interact with each other and enjoy themselves on the application that we are still ideating on. A chat room will be available for like-minded people to interact, inbiased of thier orientation!
 
-### Demo links
-https://youtu.be/sKJCVTel4Ww
-https://acender.herokuapp.com/
-
 ### Technology used
 * React.js
 * Express.js
@@ -22,6 +18,10 @@ https://acender.herokuapp.com/
 * CSS3
 * Github
 * VS Code
+
+### Demo links
+https://youtu.be/sKJCVTel4Ww
+https://acender.herokuapp.com/
 
 Screenshots:
 ![image](https://user-images.githubusercontent.com/66139520/112748484-76e00480-8fd9-11eb-91fc-e52846e9ec4a.png)
